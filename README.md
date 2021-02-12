@@ -34,8 +34,8 @@ Information needed from this exploration includes:
 This project's intent is to provide a plan for how Microsoft can make the jump into producing movies. It outlines the financial expectations, personnel considerations, as well as content considerations that will bring the most success to this venture.
 
 ## Featured Notebooks and Analysis
-[Presentation](https://docs.google.com/presentation/d/1iSCrGxoMHlpGaVB2I1z_ms6DhHdNvQLCFPjQXd9lfzI/edit?usp=sharing)
+* [Presentation](https://docs.google.com/presentation/d/1iSCrGxoMHlpGaVB2I1z_ms6DhHdNvQLCFPjQXd9lfzI/edit?usp=sharing)
 * [Jupyter Notebook](https://github.com/6cats1dog/Movie-Analysis-for-Phase-1/blob/main/Movie%20Analysis2.ipynb)
 * [ReadMe](README.md)
-* [Presentation PDF](Microsoft Movie Analysis by Andres Ramirez.pdf)
+* [Presentation PDF](https://github.com/6cats1dog/Movie-Analysis-for-Phase-1/blob/main/Microsoft%20Movie%20Analysis%20by%20Andres%20Ramirez.pdf)
 
