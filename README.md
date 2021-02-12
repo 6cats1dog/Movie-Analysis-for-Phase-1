@@ -37,6 +37,5 @@ This project's intent is to provide a plan for how Microsoft can make the jump i
 * [Presentation](https://docs.google.com/presentation/d/1iSCrGxoMHlpGaVB2I1z_ms6DhHdNvQLCFPjQXd9lfzI/edit?usp=sharing)
 *[Jupyter Notebook](Movie Analysis2.ipynb)
 * [ReadMe](README.md)
-
-* [Presentation PDF](Microsoft Movie Analysis by Andres Ramirez.pdf)
+[Presentation PDF](Microsoft Movie Analysis by Andres Ramirez.pdf)
 
